@@ -24,7 +24,7 @@ ADD Daily Tokens This code will add 500 tokens which is the max daily limit and 
 
 Get Gold
 
-Get Gold code will let you chose any amount of gold you want in the gold quest gamemode you can even get negative gold but not reccomended! GlixzzyBlooketHacks/Glixzzy.github.io.
+Get Gold code will let you chose any amount of gold you want in the gold quest gamemode you can even get negative gold but not reccomended! 
 
 Chest ESP
 
@@ -32,7 +32,7 @@ Chest ESP Works in multiple gamemodes works best in gold quest once you use this
 
 Get Crypto
 
-The Get Crypto code is just like the Get gold code but only works in Crypto hack Gamemode. GlixzzyBlooketHacks/Glixzzy.github.io.
+The Get Crypto code is just like the Get gold code but only works in Crypto hack Gamemode. 
 
 5.Get other users password 5. The get other users password code is slightly different to most of the other codes but when you are playing in the crypto hack gamemode and get the hack option in one of the chests use the code and it will tell you your victims password! 
 

@@ -11,9 +11,9 @@ if you get banned this is not my issue, as these are against Blooket's TOS
 # HOW TO USE:
 
 
-go to the url bar when you are in blooket
+Go to the url bar when you are in blooket
 ![Screenshot 2022-04-18 9 42 25 AM](https://user-images.githubusercontent.com/100436822/163824930-26969fa2-b8dd-4e09-bc0a-16a815298f30.png)
-type   "  **javascript:**  "
+Type   "  **javascript:**  "
 then paste your code in
 it should look like this
 ![Screenshot 2022-04-18 9 45 50 AM](https://user-images.githubusercontent.com/100436822/163825308-ed7728b2-e31f-4f0a-826a-5f43e30cbc72.png)

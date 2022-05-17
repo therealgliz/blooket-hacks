@@ -20,8 +20,6 @@ it should look like this
 (the text in the middle)
 then, refresh your page and you should be good to go
 
-THESE INSTRUCTIONS WERE PROVIDED BY @hankypoo7
-
 ## Warning
 While using these hacks, there is a chance you can get banned. Use these at your own risk.
 I am not responsible for if you get in any trouble while using these hacks.

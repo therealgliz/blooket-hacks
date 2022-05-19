@@ -1,5 +1,7 @@
 # Support discord server: https://discord.gg/
 
+## **All of the hacks are located at https://schoolcheats.net/blooket**
+
 # The Blooket Hack
 
 **The Blooket Hack provided by [gliz](https://twitter.com/glixzzy)**

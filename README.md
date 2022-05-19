@@ -1,59 +1,57 @@
-TO THE PEOPLE  SAYING THESE ARE FAKE AND WILL GET YOU BANNED READ BELOW:
+# Support discord server: https://glizzers.xyz/discord
 
-🌟PLEASE STAR THIS PROJECT🌟
+# The Blooket Hack
 
-Join the Discord for support: https://discord.gg/pushfr
+**The Blooket Hack provided by [gliz](https://twitter.com/glizuwu)**
 
-if you get banned this is not my issue, as these are against Blooket's TOS
+Why you should use this tool:
+- Always working.
+- When the hacks break it usually gets fixed in about 6-8 hours.
+- This tool is actively being updated so nothing breaks.
+- Used by hundreds of thousands people.
 
--lol-jude
+All of the hacks are sorted into the gamemode they can be used in. If you encounter a problem or a issue please [open a issue here](https://github.com/glixzzy/blooket-hack/issues).
 
-# HOW TO USE:
+If you are a programmer and want to make your own stuff for blooket make sure to check out the [blooket library](https://github.com/glixzzy/blooket-wrapper).
+
+## Current Version
+
+Blooket Hack v4.2
+
+- **View all the changelogs [here](https://github.com/glixzzy/blooket-hack/blob/main/CHANGELOG.md).**
+
+# Usage
+
+## How to use
+
+Here is how to use the hacks with videos showing step-by-step how to install the hacks and how to use them.
+
+### Console method
+
+This only works if inspect element enabled and you can open console. If inspect is disabled for you scroll down for the bookmarklet method.
+
+https://user-images.githubusercontent.com/73669084/142779206-6cef86be-b2a5-4958-8637-cb6bde2a42da.mp4
 
 
-Go to the url bar when you are in blooket
-![Screenshot 2022-04-18 9 42 25 AM](https://user-images.githubusercontent.com/100436822/163824930-26969fa2-b8dd-4e09-bc0a-16a815298f30.png)
-Type   "  **javascript:**  "
-then paste your code in
-it should look like this
-![Screenshot 2022-04-18 9 45 50 AM](https://user-images.githubusercontent.com/100436822/163825308-ed7728b2-e31f-4f0a-826a-5f43e30cbc72.png)
-(the text in the middle)
-then, refresh your page and you should be good to go
+### Bookmarklet method
 
-## Warning
-While using these hacks, there is a chance you can get banned. Use these at your own risk.
-I am not responsible for if you get in any trouble while using these hacks.
 
-# DO NOT STEAL MY WORK!
+1. Make a bookmark (the star on the right side of the url bar if you are using chrome)
+2. Click on more at the bottom left corner
+3. Delete everything in the url box
+4. Type `javascript:`
+5. Paste in the code
 
-I am in the process of taking legal action against someone stealing my code and posting it as their own. They modified my code as well as deleted all credit towards me. Do not steal my work as I will take legal actions.
+https://user-images.githubusercontent.com/58097612/145106447-4fd27355-3a2c-4b0e-8976-3fc51ba8aae8.mp4
 
-# Blooket Info
 
-🌟PLEASE STAR THIS PROJECT🌟
+# Important
 
-Top 6 list of most popular/used codes...
+Blooket is now banning people who are using hacks.
 
-Add Daily Tokens
+**I just wanted to say that I'm not responsible if you get banned. I'm not responsible for your actions.**
 
-ADD Daily Tokens This code will add 500 tokens which is the max daily limit and add the max xp which is 300 daily limit! 
-
-Get Gold
-
-Get Gold code will let you chose any amount of gold you want in the gold quest gamemode you can even get negative gold but not reccomended! 
-
-Chest ESP
-
-Chest ESP Works in multiple gamemodes works best in gold quest once you use this code you wil be able to see what you will get in the chest before even clicking on it so it is very usefull!
-
-Get Crypto
-
-The Get Crypto code is just like the Get gold code but only works in Crypto hack Gamemode. 
-
-5.Get other users password 5. The get other users password code is slightly different to most of the other codes but when you are playing in the crypto hack gamemode and get the hack option in one of the chests use the code and it will tell you your victims password! 
-
-Instant Win
-Instant win code will automatically make you win in the racing mode.
-There you go!
-
-All codes still working!
+## PoC
+![image](https://user-images.githubusercontent.com/73669084/148287287-44fd3b5f-43d9-49be-bf9f-7d445d366bfd.png)
+![image](https://user-images.githubusercontent.com/73669084/148287302-8693c202-6968-4cf3-811f-05cbd0fd8b2f.png)
+![image](https://user-images.githubusercontent.com/73669084/148287313-30793b91-b0d1-430b-879b-398a23b9b197.png)

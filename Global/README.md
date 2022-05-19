@@ -1,4 +1,4 @@
-# Support discord server: https://glizzers.xyz/discord
+# Support discord server: https://discord.gg/
 
 # global
 

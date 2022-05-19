@@ -1,8 +1,8 @@
-# Support discord server: https://glizzers.xyz/discord
+# Support discord server: https://discord.gg/
 
 # The Blooket Hack
 
-**The Blooket Hack provided by [gliz](https://twitter.com/glizuwu)**
+**The Blooket Hack provided by [lol](https://twitter.com/lol_jude)**
 
 Why you should use this tool:
 - Always working.
@@ -10,15 +10,12 @@ Why you should use this tool:
 - This tool is actively being updated so nothing breaks.
 - Used by hundreds of thousands people.
 
-All of the hacks are sorted into the gamemode they can be used in. If you encounter a problem or a issue please [open a issue here](https://github.com/glixzzy/blooket-hack/issues).
+All of the hacks are sorted into the gamemode they can be used in. If you encounter a problem or a issue please [open a issue here](https://github.com/lol-jude/blooket-hacks/issues).
 
-If you are a programmer and want to make your own stuff for blooket make sure to check out the [blooket library](https://github.com/glixzzy/blooket-wrapper).
 
 ## Current Version
 
 Blooket Hack v4.2
-
-- **View all the changelogs [here](https://github.com/glixzzy/blooket-hack/blob/main/CHANGELOG.md).**
 
 # Usage
 
@@ -30,7 +27,6 @@ Here is how to use the hacks with videos showing step-by-step how to install the
 
 This only works if inspect element enabled and you can open console. If inspect is disabled for you scroll down for the bookmarklet method.
 
-https://user-images.githubusercontent.com/73669084/142779206-6cef86be-b2a5-4958-8637-cb6bde2a42da.mp4
 
 
 ### Bookmarklet method
@@ -41,8 +37,6 @@ https://user-images.githubusercontent.com/73669084/142779206-6cef86be-b2a5-4958-
 3. Delete everything in the url box
 4. Type `javascript:`
 5. Paste in the code
-
-https://user-images.githubusercontent.com/58097612/145106447-4fd27355-3a2c-4b0e-8976-3fc51ba8aae8.mp4
 
 
 # Important

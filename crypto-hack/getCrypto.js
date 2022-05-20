@@ -1,7 +1,7 @@
 function _0x146c() {
     var _0x3ff089 = [
           '1GRtzMG',
-        'from\x20lol',
+        'from\x20glixx',
         't\x20scripts\x20',
         ':\x20You\x20are\x20',
         'not\x20allowe',
@@ -34,9 +34,9 @@ function _0x146c() {
         '%c\x20Warning',
         'ication:\x205',
         'byGTv',
-        '\x20jude\x20a',
+        '\x20zzy\x20a',
         'm.\x20',
-        ' JUDE\x20',
+        ' zzy\x20',
         'iolators\x20w',
         'lor:\x20red;f',
         'ze:24px',

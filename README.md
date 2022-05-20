@@ -4,9 +4,9 @@
 
 # The Blooket Hack
 
- <a href="https://github.comg/glixxzzy/blooket-hack/issues">
+ <a href="https://github.com/glixxzzy/blooket-hack/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/Hankypoo7/Blooket-hacks-Hankypoo7-?color=FFA500" />
-    <a href="https://github.comg/glixxzzy/blooket-hack/pulls">
+    <a href="https://github.com/glixxzzy/blooket-hack/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Hankypoo7/Blooket-hacks-Hankypoo7-?color=0088ff" /></a>
  
  **The Blooket Hack provided by [gliz](https://twitter.com/glixxzzy)**

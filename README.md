@@ -6,6 +6,11 @@
 
 **The Blooket Hack provided by [gliz](https://twitter.com/glixxzzy)**
 
+ <a href="https://github.com/Hankypoo7/Blooket-hacks-Hankypoo7-/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/Hankypoo7/Blooket-hacks-Hankypoo7-?color=FFA500" />
+    <a href="https://github.com/Hankypoo7/Blooket-hacks-Hankypoo7-/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Hankypoo7/Blooket-hacks-Hankypoo7-?color=0088ff" /></a>
+
 Why you should use this tool:
 - Always working.
 - When the hacks break it usually gets fixed in about 6-8 hours.

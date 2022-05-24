@@ -11,3 +11,4 @@ This cheat only works in blook rush gamemode!
 # setDefense.js
 
 ### Get the script from the file [setDefense.js](https://raw.githubusercontent.com/glixxzzy/blooket-hack/main/blook-rush/setDefense.js)
+ 

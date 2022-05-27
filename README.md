@@ -8,7 +8,7 @@
       <img alt="Issues" src="https://img.shields.io/github/issues/glixxzzy/blooket-hack?color=FFA500" />
     <a href="https://github.com/glixxzzy/blooket-hack/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/glixxzzy/blooket-hack?color=0088ff" /></a>
- <a href="https://discordapp.com/invite/qnAqCEd" title="Chat on Discord"><img alt="Discord Status" src="https://discord.com/api/guilds/977054822152957992/widget.json"></a>
+ <a href="https://discordapp.com/invite/qnAqCEd" title="Chat on Discord"><img alt="Discord Status" src="https://discord.com/api/guilds/977054822152957992/widget.jso"></a>
  
  **The Blooket Hack provided by [gliz](https://twitter.com/glixxzzy)**
 

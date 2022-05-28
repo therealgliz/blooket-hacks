@@ -1,8 +1,10 @@
-# Support discord server: https://discord.gg/TV8sYbe4RY
+# ForeNote
 
-## **All of the hacks are located at https://schoolcheats.net/blooket**
+**Join our Support Server [here.](https://discord.gg/TV8sYbe4RY)**
 
-# The Blooket Hack
+**All of the hacks are located [here.](https://schoolcheats.net/blooket)
+
+## The Blooket Hack
 
  <a href="https://github.com/glixxzzy/blooket-hack/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/glixxzzy/blooket-hack?color=FFA500" />
@@ -10,17 +12,16 @@
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/glixxzzy/blooket-hack?color=0088ff" /></a>
  <a href="https://discordapp.com/invite/TV8sYbe4RY" title="Chat on Discord"><img alt="Discord Status" src="https://discordapp.com/api/guilds/977054822152957992/widget.png"></a>
  
- **The Blooket Hack provided by [gliz](https://twitter.com/glixxzzy)**
+ **The Blooket Hacks provided by [gliz](https://twitter.com/glixxzzy)**
 
 Why you should use this tool:
-- Always working.
+- It's always working.
 - When the hacks break it usually gets fixed in about 6-8 hours.
-- This tool is actively being updated so nothing breaks.
 - Used by hundreds of thousands people.
 
 All of the hacks are sorted into the gamemode they can be used in. If you encounter a problem or a issue please [open a issue here](https://github.com/glixxzzy/blooket-hack/issues).
 
-## Current Version
+### Current Version
 
 Blooket Hack v4.2
 

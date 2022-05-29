@@ -2,7 +2,7 @@
 
 These Cheats can only be used with the Blook-Rush Gamemode.  
 
-Join our Support Server [here](https://discord.gg/TV8sYbe4RY.)
+Join our Support Server [here.](https://discord.gg/TV8sYbe4RY)
 
 ## Scripts
 

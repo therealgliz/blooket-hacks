@@ -1,64 +1,55 @@
-# ForeNote
+<p align="center">
+  <img src="https://github.com/Colack/blooket-hack/blob/main/docs/images/Logo.png?raw=true" width="150" />
+</p>
 
-**Join our Support Server [here.](https://discord.gg/TV8sYbe4RY)**
+<h1 align="center">Blooket Hacks</h1>
+<h4 align="center">Hacks for Blooket and many different Gamemodes.</h4>
 
-**All of the hacks are located [here.](https://schoolcheats.net/blooket)
 
-## The Blooket Hack
+<p align="center">
+  <img src="https://img.shields.io/github/issues/glixxzzy/blooket-hack?color=FFA500">
+   <img src="https://img.shields.io/github/issues-pr/glixxzzy/blooket-hack?color=0088ff">
+   <img src="https://discordapp.com/api/guilds/977054822152957992/widget.png">
+</p>
 
- <a href="https://github.com/glixxzzy/blooket-hack/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/glixxzzy/blooket-hack?color=FFA500" />
-    <a href="https://github.com/glixxzzy/blooket-hack/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/glixxzzy/blooket-hack?color=0088ff" /></a>
- <a href="https://discordapp.com/invite/TV8sYbe4RY" title="Chat on Discord"><img alt="Discord Status" src="https://discordapp.com/api/guilds/977054822152957992/widget.png"></a>
- 
- **The Blooket Hacks provided by [gliz](https://twitter.com/glixxzzy)**
+## Information
 
 Why you should use this tool:
-- It's always working.
-- When the hacks break it usually gets fixed in about 6-8 hours.
-- Used by hundreds of thousands people.
+* It always works.
+* When it breaks, it usually gets updated to a working build in ~6-8 hours.
+* It is used by Hundreds of Thousands of people.  
 
-All of the hacks are sorted into the gamemode they can be used in. If you encounter a problem or a issue please [open a issue here](https://github.com/glixxzzy/blooket-hack/issues).
+All of the hacks are sorted into each gamemode they can be used in.  
+If you encounter a issue, please open it [here.](https://github.com/glixxzzy/blooket-hack/issues)
 
-### Current Version
+### Usage
 
-Blooket Hack v4.2
+There are many methods to use the our Hacks. Please click one of the links below to learn how to use them.
 
-- **View all the changelogs [here](https://github.com/glixxzzy/blooket-hack/blob/main/CHANGELOG.md).**
+[BookMarklet](https://github.com/Colack/blooket-hack/blob/main/docs/Examples/README/BookMarklet.md)  
+[Console](https://github.com/Colack/blooket-hack/blob/main/docs/Examples/README/Console.md)
 
-# Usage
+### Warning
 
-## How to use
+Blooket is banning people who are using hacks.   
 
-Here is how to use the hacks with videos showing step-by-step how to install the hacks and how to use them.
+We are not responsible if you get banned. You are responsible for your actions.
 
-### Console method
-
-This only works if inspect element enabled and you can open console. If inspect is disabled for you scroll down for the bookmarklet method.
-
-https://user-images.githubusercontent.com/73669084/142779206-6cef86be-b2a5-4958-8637-cb6bde2a42da.mp4
-
-
-### Bookmarklet method
-~~https://streamable.com/t4u7i7~~
-
-1. Make a bookmark (the star on the right side of the url bar if you are using chrome)
-2. Click on more at the bottom left corner
-3. Delete everything in the url box
-4. Type `javascript:`
-5. Paste in the code
-
-https://user-images.githubusercontent.com/58097612/145106447-4fd27355-3a2c-4b0e-8976-3fc51ba8aae8.mp4
-
-
-# Important
-
-Blooket is now banning people who are using hacks.
-
-**I just wanted to say that I'm not responsible if you get banned. I'm not responsible for your actions.**
-
-## PoC
 ![image](https://user-images.githubusercontent.com/73669084/148287287-44fd3b5f-43d9-49be-bf9f-7d445d366bfd.png)
 ![image](https://user-images.githubusercontent.com/73669084/148287302-8693c202-6968-4cf3-811f-05cbd0fd8b2f.png)
 ![image](https://user-images.githubusercontent.com/73669084/148287313-30793b91-b0d1-430b-879b-398a23b9b197.png)
+
+## Other Information
+
+**Current Version:**  
+* Version 4.2   
+
+**[ChangeLog](https://github.com/glixxzzy/blooket-hack/blob/main/CHANGELOG.md)**  
+
+**[Issues](https://github.com/glixxzzy/blooket-hack/issues)**
+ 
+ **The Blooket Hacks provided by [gliz](https://github.com/glixxzzy).**  
+ 
+ **Join our Support Server [here.](https://discord.gg/TV8sYbe4RY)**
+
+**All of the hacks are located on our [site.](https://schoolcheats.net/blooket)**

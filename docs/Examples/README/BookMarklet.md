@@ -1,4 +1,4 @@
-# BlookMarklet Method
+# BookMarklet Method
 
 **Steps:**  
 1. Make a bookmark.

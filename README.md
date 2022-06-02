@@ -3,8 +3,9 @@
 ## **All of the hacks are located at https://schoolcheats.net/blooket**
 
 # The Blooket Hack
-
+<br>
  <img alt="Stars" src="https://img.shields.io/github/stars/glixxzzy/blooket-hack.svg?color=#DFFF00"
+      <br>
  <a href="https://github.com/glixxzzy/blooket-hack/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/glixxzzy/blooket-hack?color=FFA500" />
     <a href="https://github.com/glixxzzy/blooket-hack/pulls">

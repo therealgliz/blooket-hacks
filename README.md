@@ -4,14 +4,14 @@
 
 # The Blooket Hack
 
-                                                                                                <br>	
+<br>	
     <img alt="Stars" src="https://img.shields.io/github/stars/glixxzzy/blooket-hack.svg?color=#DFFF00"
-    <br>
     <a href="https://github.com/glixxzzy/blooket-hack/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/glixxzzy/blooket-hack?color=FFA500" />
     <a href="https://github.com/glixxzzy/blooket-hack/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/glixxzzy/blooket-hack?color=0088ff" /></a>
   </p>
+  <br>
 
  
  **The Blooket Hack provided by [gliz](https://twitter.com/glixxzzy)**

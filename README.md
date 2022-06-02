@@ -4,7 +4,7 @@
 
 # The Blooket Hack
 
-<br>	
+                                                                                                <br>	
     <img alt="Stars" src="https://img.shields.io/github/stars/glixxzzy/blooket-hack.svg?color=#DFFF00"
     <br>
     <a href="https://github.com/glixxzzy/blooket-hack/issues">

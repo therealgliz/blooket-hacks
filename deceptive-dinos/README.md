@@ -2,7 +2,6 @@
 
 # deceptive-dinos
 
-
 This cheat only works in crazy deceptive dinos gamemode!
 
 # fossilMultiplier.js

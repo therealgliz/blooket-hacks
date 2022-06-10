@@ -8,6 +8,7 @@
 - Fully working validation checks! (like a kill switch to use the blooket hack, only managed by me.)
 - New cheats for:
     - Blook Rush
+    - Deceptive Dinos
     - Classic
     - Battle Royale
 - **New bypass for Blookets detection on cheating 🎉**

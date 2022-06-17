@@ -3,6 +3,9 @@
 ## **All of the hacks are located at https://schoolcheats.net/blooket**
 
 # The Blooket Hack
+
+## Visitor Count
+  <img src="https://profile-counter.glitch.me/blooket-hack/count.svg" />
 <p>	
     <a href="https://github.com/glixxzzy/blooket-hack/stargazers">
     <img alt="Stars" src="https://img.shields.io/github/stars/glixxzzy/blooket-hack.svg?color=#DFFF00"/>

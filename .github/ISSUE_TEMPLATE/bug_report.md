@@ -1,38 +1,25 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
+about: Create a bug report to report anything that happens while using the hacks.
+title: Issue while using [HACK_NAME] on [GAMEMODE]
+labels: "\U0001F47E bug \U0001F47E"
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Describe the your bug *what happened* in detail**
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**What device did you receive this bug on?**
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**To Reproduce Steps to reproduce the behavior:**
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+Go to '...'
+Click on '....'
+Scroll down to '....'
+See error
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Expected behavior A clear and concise description of what you expected to happen.**
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**Screenshots If applicable, add screenshots to help explain your problem.**
 
-**Additional context**
-Add any other context about the problem here.
+**Additional context Add any other context about the problem here.**

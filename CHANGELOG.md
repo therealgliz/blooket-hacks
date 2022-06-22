@@ -2,6 +2,13 @@
 
 **Scroll down for the older versions**
 
+# Blooket Hack v5
+- Another code revamp!
+- All hacks **SHOULD** be fully working
+- All the hacks will work in solo, live, and homework link games now!
+- Fixed it so that you can run any script more than once in the same game now.
+
+
 ## Blooket Hack v4
 
 - Another code revamp!!

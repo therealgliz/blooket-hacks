@@ -2,7 +2,7 @@
 
 # gold
 
-This cheat only works in gold game mode!
+This cheat only works in gold game mode! **SHOULD** now be working!
 
 # chestESP.js
 

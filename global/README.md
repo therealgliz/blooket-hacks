@@ -18,6 +18,10 @@ note: **This cheat also includes adding max xp for the day**
 
 ### Get the script from the file [getEveryAnswerCorrect.js](https://raw.githubusercontent.com/glixxzzy/blooket-hack/main/global/getEveryAnswerCorrect.js) or https://schoolcheats.net/blooket
 
+# spamBots.js
+
+### Get the script from the file [spamBots.js](https://raw.githubusercontent.com/glixxzzy/blooket-hack/main/global/spamBots.js) or https://schoolcheats.net/blooket
+
 # spamOpenBoxes.js
 
 ### Get the script from the file [spamOpenBoxes.js](https://raw.githubusercontent.com/glixxzzy/blooket-hack/main/global/spamOpenBoxes.js) or https://schoolcheats.net/blooket

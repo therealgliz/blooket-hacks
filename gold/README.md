@@ -10,4 +10,4 @@ This cheat only works in gold game mode!
 
 # getGold.js
 
-https://schoolcheats.net/blooket - Be CAREFUL! All getGold hacks ban you at this moment.
+### https://schoolcheats.net/blooket - Be CAREFUL! All getGold hacks ban you at this moment.

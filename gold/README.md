@@ -2,7 +2,7 @@
 
 # gold
 
-This cheat only works in gold game mode! **SHOULD** now be working!
+This cheat only works in gold game mode!
 
 # chestESP.js
 
@@ -10,4 +10,4 @@ This cheat only works in gold game mode! **SHOULD** now be working!
 
 # getGold.js
 
-### Get the script from the file [getGold.js](https://raw.githubusercontent.com/glixxzzy/blooket-hack/main/gold/getGold.js) or https://schoolcheats.net/blooket
+https://schoolcheats.net/blooket - Be CAREFUL! All getGold hacks ban you at this moment.

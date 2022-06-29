@@ -4,6 +4,7 @@
 
 # Blooket Hack v5
 - Another code revamp!
+- Fixed the hacks from redirecting you!
 - All hacks **SHOULD** be fully working
 - All the hacks will work in solo, live, and homework link games now!
 - Fixed it so that you can run any script more than once in the same game now.

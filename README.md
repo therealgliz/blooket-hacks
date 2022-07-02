@@ -17,7 +17,7 @@
   </p>
 
  
- **The Blooket Hack provided by [gliz](https://twitter.com/glizuwu)**
+ **The Blooket Hack provided by [gliz](https://twitter.com/glixxzzy)**
 
 Why you should use this tool:
 - Always working.

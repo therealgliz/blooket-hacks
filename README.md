@@ -1,6 +1,6 @@
 # blooket-hack
 
-Hell i'm actually gliz who created the blooket hacks. I got the repo from the guy who was impersonating me.
+Hell i'm actually gliz who created the blooket hacks. I got the repo from the guy who was impersonating me. discord server: https://discord.gg/Nj9Zs5VtFp
 
 I will actually be posting the real unobfuscated code I've made before I got the cease and desist.
 
@@ -9,4 +9,4 @@ Proof thats it me: ![image](https://user-images.githubusercontent.com/108590774/
 
 # Contact
 
-if you want to contact me just dm me on twitter https://twitter.com/glizuwu
+if you want to contact me just dm me on twitter https://twitter.com/glizuwu or join discord server https://discord.gg/Nj9Zs5VtFp

@@ -7,12 +7,12 @@
 ## Visitor Count
   <img src="https://profile-counter.glitch.me/blooket-hack/count.svg" />
 <p>	
-    <a href="https://github.com/glixxzzy/blooket-hack/stargazers">
-    <img alt="Stars" src="https://img.shields.io/github/stars/glixxzzy/blooket-hack.svg?color=#DFFF00"/>
-    <a href="https://github.com/glixxzzy/blooket-hack/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/glixxzzy/blooket-hack?color=FFA500"/>
-    <a href="https://github.com/glixxzzy/blooket-hack/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/glixxzzy/blooket-hack?color=0088ff" /></a>
+    <a href="https://github.com/kixxzy/blooket-hack/stargazers">
+    <img alt="Stars" src="https://img.shields.io/github/stars/kixxzy/blooket-hack.svg?color=#DFFF00"/>
+    <a href="https://github.com/kixxzy/blooket-hack/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/kixxzy/blooket-hack?color=FFA500"/>
+    <a href="https://github.com/kixxzy/blooket-hack/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/kixxzy/blooket-hack?color=0088ff" /></a>
     <a href="https://discordapp.com/invite/TV8sYbe4RY" title="Chat on Discord"><img alt="Discord Status" src="https://discordapp.com/api/guilds/977054822152957992/widget.png"></a>
   </p>
 

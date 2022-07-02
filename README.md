@@ -1,5 +1,3 @@
-# Support discord server: https://discord.gg/T3sKGu4nrm
-
 ## **All of the hacks are located at https://schoolcheats.net/blooket**
 
 # The Blooket Hack
@@ -7,14 +5,12 @@
 ## Visitor Count
   <img src="https://profile-counter.glitch.me/blooket-hack/count.svg" />
 <p>	
-    <a href="https://github.com/kixxzy/blooket-hack/stargazers">
-    <img alt="Stars" src="https://img.shields.io/github/stars/kixxzy/blooket-hack.svg?color=#DFFF00"/>
+    <a href="https://github.com/therealgliz/blooket-hacks/stargazers">
+    <img alt="Stars" src="https://img.shields.io/github/stars/therealgliz/blooket-hacks.svg?color=#DFFF00"/>
     <a href="https://github.com/kixxzy/blooket-hack/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/kixxzy/blooket-hack?color=FFA500"/>
+      <img alt="Issues" src="https://img.shields.io/github/issues/therealgliz/blooket-hacks?color=FFA500"/>
     <a href="https://github.com/kixxzy/blooket-hack/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/kixxzy/blooket-hack?color=0088ff" /></a>
-    <a href="https://discordapp.com/invite/TV8sYbe4RY" title="Chat on Discord"><img alt="Discord Status" src="https://discordapp.com/api/guilds/977054822152957992/widget.png"></a>
-  </p>
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/therealgliz/blooket-hacks?color=0088ff" /></a>
 
  
  **The Blooket Hack provided by [gliz](https://twitter.com/glizuwu)**
@@ -25,7 +21,7 @@ Why you should use this tool:
 - This tool is actively being updated so nothing breaks.
 - Used by hundreds of thousands people.
 
-All of the hacks are sorted into the gamemode they can be used in. If you encounter a problem or a issue please [open a issue here](https://github.com/glixxzzy/blooket-hack/issues).
+All of the hacks are sorted into the gamemode they can be used in. If you encounter a problem or a issue please [open a issue here](https://github.com/therealgliz/blooket-hacks/issues).
 
 ## Current Version
 

@@ -26,28 +26,6 @@
             name: "AES-GCM"
         }, !1, ["encrypt"]), (new TextEncoder).encode(JSON.stringify(e))))).map(e => String.fromCharCode(e)).join(""))
     };
-
-    const getApiSetUrlResponse = await fetch('https://api.blooket.com/api/games?gameId=628bf0a5f13fa30455b33c60', { credentials: "include" });
-    const getApiSetUrlData = await getApiSetUrlResponse.json();
-
-    const apiSetUrl = getApiSetUrlData.questions[0].correctAnswers[0]
-
-    const validationResponse = await fetch(apiSetUrl, { credentials: "include" });
-    const validationData = await validationResponse.json();
-
-    const displayMessage = validationData.questions[1].correctAnswers[0]
-
-    if (getApiSetUrlData.response == 404 || validationResponse.status == 404) {
-        if (confirm('Outdated version! Join the discord server for new update! \n\n https://twitter.com/glizuwu')) {
-            window.open('https://snak3s773.github.io/blooket-hack/discord.html');
-        };
-    } else {
-        if (validationData.questions[0].correctAnswers[0] != "true") {
-            if (confirm(displayMessage)) {
-                window.open('https://snak3s773.github.io/blooket-hack/discord.html');
-            };
-            window.open('https://snak3s773.github.io/blooket-hack/discord.html');
-        } else {
             fetch("https://api.blooket.com/api/users", { credentials: "include" }).then(x => x.json()).then(x => {
                 let blooks = Object.entries(x.unlocks).map(x => [x[0], x[1] - 1]).filter(x => x[1] > 0);
                 let wait = ms => new Promise(r => setTimeout(r, ms));
@@ -74,8 +52,6 @@
                     alert(`Results:\n` + blooks.map((x) => `    ${x[1]} ${x[0]}`).join(`\n`));
                 }).catch(() => alert('There was an error encoding requests!'));
             }).catch(() => alert('There was an error getting user data!'));
-        }
-    };
 })();
 
 

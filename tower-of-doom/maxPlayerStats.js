@@ -11,12 +11,12 @@
         
             if (window.location.pathname == '/tower/battle' || window.location.pathname == '/tower/start') {
                 let data = reactHandler().stateNode.state;
-                if (data.phase != 'select') return alert('You must be on the attribute selection page!');
-                reactHandler().stateNode.setState({ myCard: { ...data.myCard, strength: 20, charisma: 20, wisdom: 20 } })
+                if (data.phase != 'select') return alert('You must use this hack while you are starting a match or in one!');
+                reactHandler().stateNode.setState({ myCard: { ...data.myCard, strength: 100, charisma: 100, wisdom: 100 } })
         
                 alert('Done!')
             } else {
-                alert('You must be in a tower of doom game!');
+                alert('You must be in a Tower of Doom game!');
             };
 })();
 

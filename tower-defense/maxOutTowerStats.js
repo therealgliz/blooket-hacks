@@ -10,11 +10,13 @@
             };
 
             if (window.location.pathname != '/defense') {
-                alert('You must be in a tower defense game!');
+                alert('You must be in a Tower Defense game!');
             } else {
                 reactHandler().stateNode.towers.forEach(tower => {
-                    tower.damage = 99999999;
-                    tower.range = 99999999;
+                    tower.damage = 1e308;
+                    tower.range = 1e308;
+                    tower.level = 3;
+                    tower.blastRadius = 1e308
                     tower.fullCd = 0;
                 });
 

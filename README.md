@@ -11,4 +11,4 @@ Proof thats it me: ![image](https://user-images.githubusercontent.com/108590774/
 
 # Contact
 
-if you want to contact me just dm me on twitter https://twitter.com/glizuwu or join discord server https://discord.gg/Nj9Zs5VtFp
+if you want to contact me just dm me on twitter https://twitter.com/glizuwu

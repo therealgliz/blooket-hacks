@@ -1,3 +1,4 @@
+// WARNING: The GUI cannot be used as a bookmarklet. Use the console.
 (() => {
     let n = document.createElement('iframe');
     document.body.append(n);

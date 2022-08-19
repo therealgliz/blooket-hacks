@@ -1,4 +1,4 @@
-// WARNING: The GUI cannot be used as a bookmarklet. Use the console.
+// WARNING: This GUI cannot be used as a bookmarklet. See bookmark-gui.js for that.
 (() => {
     let n = document.createElement('iframe');
     document.body.append(n);

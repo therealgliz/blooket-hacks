@@ -46,7 +46,6 @@ details summary ~ * {
     const GUI = document.createElement('div');
     GUI.appendChild(style);
     GUI.style.width = '400px';
-    //GUI.style.height = '500px';
     GUI.style.background = 'hsl(0, 0%, 10%)';
     GUI.style.borderRadius = '10px';
     GUI.style.position = 'absolute';
@@ -85,7 +84,7 @@ details summary ~ * {
     header.style.paddingTop = '2px';
     header.style.fontSize = '1.5rem';
     header.style.textAlign = 'center'
-    header.innerHTML = `Blooket Cheats <span style="font-size: 0.75rem">v4.10.22</span>`;
+    header.innerHTML = `Blooket Cheats <span style="font-size: 0.75rem">v5.0.0</span>`;
 
     let loop;
 
@@ -140,7 +139,6 @@ details summary ~ * {
     body.innerHTML = (`<span id="curPageEl">${getSite(true) ? `Current gamemode: ${getSite(true)}` : 'No game detected'}</span><br><span>(Press E to hide)</span><br>`);
     body.style.display = 'block';
     body.style.margin = '10px';
-    //body.style.background = 'white';
     body.style.minHeight = '70px';
 
     let activeCheats = document.createElement('span');
@@ -230,7 +228,8 @@ details summary ~ * {
                     space: 20,
                     breakfast: 15,
                     medieval: 15,
-                    wonderland: 15
+                    wonderland: 15,
+                    dino: 25
                 }
                 if (!Object.keys(boxes).includes(box.toLowerCase())) return alert('I could not find that box!');
                 let amount = prompt('How many boxes do you want to open?');
@@ -507,6 +506,12 @@ details summary ~ * {
                     val: Number(parseFloat(prompt('How many blooks do you want?')))
                 });
             }
+        },
+        dino: {
+            'Set Fossils': () => {
+                let fossils = Number(parseFloat(prompt('How much defense do you want?')))
+                reactHandler().stateNode.setState({ fossils });
+            }
         }
     };
 
@@ -640,6 +645,7 @@ details summary ~ * {
             case 'battle-royale': return capitalize ? 'Battle Royale' : 'royale';
             case 'factory': return capitalize ? 'Factory' : 'factory';
             case 'racing': return capitalize ? 'Racing' : 'racing';
+            case 'dino': return capitalize ? 'Deceptive Dinos' : 'dino';
             case 'classic': return capitalize ? 'Classic' : 'classic';
             default: switch (window.location.pathname.split('/')[1]) {
                 case 'defense': return capitalize ? 'Tower Defense' : 'defense';

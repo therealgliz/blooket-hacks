@@ -28,14 +28,15 @@
     };
             let box = prompt(`Which box do you want to open? (e.g. Space)`);
             let boxes = {
-                safari: 25,
+                ice: 25,
+                dino: 25,
+                safari: 20,
                 aquatic: 20,
                 bot: 20,
                 space: 20,
                 breakfast: 15,
                 medieval: 15,
-                wonderland: 15,
-                dino: 25
+                wonderland: 15
             }
             if (!Object.keys(boxes).includes(box.toLowerCase())) return alert('I could not find that box!');
             let amount = prompt('How many boxes do you want to open?');

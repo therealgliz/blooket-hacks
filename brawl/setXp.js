@@ -9,8 +9,8 @@
                 return Object.values(document.querySelector('#app > div > div'))[1].children[1]._owner;
             };
 
-            if (document.location.pathname != "/play/factory") {
-                alert("You must be in a factory game!");
+            if (document.location.pathname != "/play/brawl") {
+                alert("You must be in a brawl game!");
             } else {
                 reactHandler().stateNode.setState({ cash: Number(parseFloat(prompt('How much cash would you like?'))) });
 

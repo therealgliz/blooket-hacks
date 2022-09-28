@@ -13,10 +13,11 @@
                 alert("You must be in a factory game!");
             } else {
                 blook = Number(parseFloat(prompt('what blook?')))
-                reactHandler().stateNode.state.blooks[blook].price[0] = 0
-                reactHandler().stateNode.state.blooks[blook].price[1] = 0
-                reactHandler().stateNode.state.blooks[blook].price[2] = 0
-                reactHandler().stateNode.state.blooks[blook].price[3] = 0
+                blookNumber = blook + 1
+                reactHandler().stateNode.state.blooks[blookNumber].price[0] = 0
+                reactHandler().stateNode.state.blooks[blookNumber].price[1] = 0
+                reactHandler().stateNode.state.blooks[blookNumber].price[2] = 0
+                reactHandler().stateNode.state.blooks[blookNumber].price[3] = 0
 
                 alert('Upgrade Cost is now 0!');
             }

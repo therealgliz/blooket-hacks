@@ -15,7 +15,6 @@
                 Needed = reactHandler().stateNode.state.progressNeeded
                 reactHandler().stateNode.state.progress =  Needed;
 
-
                 alert('Progress Complete');
             }
 })();

@@ -1,5 +1,3 @@
-//use full js path to click correct answer based on what its in the array
-
 (async () => {
     let n = document.createElement('iframe');
     document.body.append(n);

@@ -12,10 +12,10 @@
             if (document.location.pathname != "/play/brawl") {
                 alert("You must be in a brawl game!");
             } else {
-                reactHandler().stateNode.setState({ cash: Number(parseFloat(prompt('How much cash would you like?'))) });
+                reactHandler().stateNode.setState({ xp: Number(parseFloat(prompt('How much XP would you like?'))) });
 
 
-                alert('Added cash!');
+                alert('Added XP!');
             };
 })();
 

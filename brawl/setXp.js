@@ -5,14 +5,18 @@
     window.prompt = n.contentWindow.prompt.bind(window);
     window.confirm = n.contentWindow.confirm.bind(window);
     n.remove();
-                function reactHandler() {
-                    return Object.values(document.querySelector('#app > div > div'))[1].children[1]._owner;
-                };
+            function reactHandler() {
+                return Object.values(document.querySelector('#app > div > div'))[1].children[1]._owner;
+            };
 
-                let fossils = Number(parseFloat(prompt('How many fossils do you want?')));
-                reactHandler().stateNode.setState({ fossils: fossils });
+            if (document.location.pathname != "/play/brawl") {
+                alert("You must be in a brawl game!");
+            } else {
+                reactHandler().stateNode.setState({ xp: Number(parseFloat(prompt('How much XP would you like?'))) });
 
-                alert('Fossils added!');
+
+                alert('Added XP!');
+            };
 })();
 
 
@@ -20,7 +24,7 @@ function footer() {
     let element = document.createElement('div');
 
     element.style = `font-family: "Nunito", sans-serif; font-size: 14px; height: 65px; width: 175px; border: 4px solid rgb(15, 15, 15); background: rgb(240, 240, 240); position: absolute; top: 20x; left: 20px; border-radius: 10px; color: rgb(0, 0, 0); text-align: center;`;
-    element.innerHTML = `<p>Made by gliz <br> My <a style="color: #0000ff;" href="https://twitter.com/glizuwu" target="_blank">twitter</a></p>`;
+    element.innerHTML = `<p>Made by Overtime <br> My <a style="color: #0000ff;" href="https://twitch.tv/overtimepog" target="_blank">twitch</a></p>`;
     document.body.appendChild(element);
 
     var pos1 = 0, pos2 = 0, pos3 = 0, pos4 = 0;
@@ -48,3 +52,11 @@ function footer() {
 };
 
 footer();
+
+
+
+
+
+
+
+

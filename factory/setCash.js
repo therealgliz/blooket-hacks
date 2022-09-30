@@ -9,10 +9,14 @@
                 return Object.values(document.querySelector('#app > div > div'))[1].children[1]._owner;
             };
 
-            if (!window.location.pathname.split('/').includes('lobby')) return alert('You must be in a game lobby! (e.g. https://www.blooket.com/play/lobby)');
+            if (document.location.pathname != "/play/factory") {
+                alert("You must be in a factory game!");
+            } else {
+                reactHandler().stateNode.setState({ cash: Number(parseFloat(prompt('How much cash would you like?'))) });
 
-            reactHandler().stateNode.setState({ lockedBlooks: [], takenBlooks: [] });
-            alert('Blooks unlocked!');
+
+                alert('Added cash!');
+            };
 })();
 
 
@@ -20,9 +24,9 @@ function footer() {
     let element = document.createElement('div');
 
     element.style = `font-family: "Nunito", sans-serif; font-size: 14px; height: 65px; width: 175px; border: 4px solid rgb(15, 15, 15); background: rgb(240, 240, 240); position: absolute; top: 20x; left: 20px; border-radius: 10px; color: rgb(0, 0, 0); text-align: center;`;
-    element.innerHTML = `<p>Made by gliz <br> My <a style="color: #0000ff;" href="https://twitter.com/glizuwu" target="_blank">twitter</a></p>`;
+    element.innerHTML = `<p>Made by Overtime <br> My <a style="color: #0000ff;" href="https://twitch.tv/overtimepog" target="_blank">twitch</a></p>`;
     document.body.appendChild(element);
-    
+
     var pos1 = 0, pos2 = 0, pos3 = 0, pos4 = 0;
     element.onmousedown = ((e = window.event) => {
         e.preventDefault();
@@ -48,3 +52,11 @@ function footer() {
 };
 
 footer();
+
+
+
+
+
+
+
+

@@ -13,7 +13,7 @@
                 alert("You must be in a factory game!");
             } else {
                 blook = Number(parseFloat(prompt('what blook?')))
-                blookNumber = blook + 1
+                let blookNumber = blook + 1
                 reactHandler().stateNode.state.blooks[blookNumber].price[0] = 0
                 reactHandler().stateNode.state.blooks[blookNumber].price[1] = 0
                 reactHandler().stateNode.state.blooks[blookNumber].price[2] = 0

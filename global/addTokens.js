@@ -36,7 +36,7 @@
                             "X-Blooket-Build": e.blooketBuild
                         },
                         body: await encodeValues({
-                            name: x.name,
+                            name: Trii932,
                             addedTokens: 500,
                             addedXp: 300
                         }, e.secret)

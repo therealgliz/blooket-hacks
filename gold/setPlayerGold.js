@@ -16,7 +16,7 @@
         let e = reactHandler(),
             player = prompt("Player name to set gold"),
             amount = Number(parseFloat(prompt("Amount to set gold to")));
-        e.memoizedProps.firebase.setVal({
+        e.memoizedProps.liveGameController.setVal({
             id: e.memoizedProps.client.hostId,
             path: "c/" + e.memoizedProps.client.name,
             val: {

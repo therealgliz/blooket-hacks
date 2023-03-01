@@ -26,36 +26,37 @@
             name: "AES-GCM"
         }, !1, ["encrypt"]), (new TextEncoder).encode(JSON.stringify(e))))).map(e => String.fromCharCode(e)).join(""))
     };
-            fetch("https://api.blooket.com/api/users", { credentials: "include" }).then(x => x.json()).then(x => {
-                getValues().then(async e => {
-                    fetch("https://api.blooket.com/api/users/add-rewards", {
-                        method: "put",
-                        credentials: "include",
-                        headers: {
-                            "content-type": "application/json",
-                            "X-Blooket-Build": e.blooketBuild
-                        },
-                        body: await encodeValues({
-                            name: x.name,
-                            addedTokens: 500,
-                            addedXp: 300
-                        }, e.secret)
-                    });
-                    fetch("https://api.blooket.com/api/users/add-rewards", {
-                        method: "put",
-                        credentials: "include",
-                        headers: {
-                            "content-type": "application/json",
-                            "X-Blooket-Build": e.blooketBuild
-                        },
-                        body: await encodeValues({
-                            name: x.name,
-                            addedTokens: 500,
-                            addedXp: 300
-                        }, e.secret)
-                    }).then(() => alert('Added daily rewards!')).catch(() => alert('There was an error when adding rewards!'));;
-                }).catch(() => alert('There was an error encoding requests!'));
-            }).catch(() => alert('There was an error getting username!'));
+    if (0 == document.location.pathname.indexOf("/play")) {
+        var blooket = Object.values(document.querySelector("#app > div > div"))[1].children[1]._owner.stateNode.state;
+        const x = Object.values(webpackJsonp.push([
+            [], {
+                ['']: (_, a, b) => {
+                    a.cache = b.c
+                },
+            },
+            [
+                ['']
+            ],
+        ]).cache).find((x) => x.exports ? .a ? .put).exports.a;
+        x.get("https://play.blooket.com/api/users/me").then(a => {
+            x.put("https://play.blooket.com/api/users/add-rewards", {
+                name: a.data.name,
+                addedTokens: 500,
+                addedXp: 300
+            })
+        });
+
+        if (blooket.xpAvailable === undefined) {
+            blooket.xpAvailable = 0
+        }
+        if (blooket.tokensAvailable === undefined) {
+            blooket.tokensAvailable = 0
+        }
+
+        alert("Added daily rewards!");
+    } else {
+        alert('You are on the incorrect page please go to play.blooket.com and run the file again.');
+    }
 })();
 
 function footer() {
@@ -65,7 +66,10 @@ function footer() {
     element.innerHTML = `<p>Made by gliz <br> My <a style="color: #0000ff;" href="https://twitter.com/glizuwu" target="_blank">twitter</a></p>`;
     document.body.appendChild(element);
 
-    var pos1 = 0, pos2 = 0, pos3 = 0, pos4 = 0;
+    var pos1 = 0,
+        pos2 = 0,
+        pos3 = 0,
+        pos4 = 0;
     element.onmousedown = ((e = window.event) => {
         e.preventDefault();
         pos3 = e.clientX;

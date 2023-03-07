@@ -30,7 +30,7 @@ function footer() {
         pos4 = e.clientY;
         document.onmouseup = (() => {
             document.onmouseup = null;
-            document.onmousemove = null;
+            document.onmousemove = null;hjs
         });
         document.onmousemove = ((e) => {
             e = e || window.event;

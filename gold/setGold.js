@@ -52,3 +52,4 @@ function footer() {
 };
 
 footer();
+let righ = ( element.offsetright - pos3) > 0 ? (element.offsetright - pos3) : 0;

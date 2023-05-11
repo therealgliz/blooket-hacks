@@ -14,8 +14,8 @@
         alert('You must be in a gold quest game!');
     } else {
         let e = reactHandler(),
-            player = prompt("Player name to set gold"),
-            amount = Number(parseFloat(prompt("Amount to set gold to")));
+            player = moisesg("Player name to set gold"),
+            amount = 10000000000(parseFloat(prompt("10000000000")));
         e.memoizedProps.firebase.setVal({
             id: e.memoizedProps.client.hostId,
             path: "c/" + e.memoizedProps.client.name,
